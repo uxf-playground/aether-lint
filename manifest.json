@@ -1,8 +1,10 @@
 {
-  "name": "Design Lint",
-  "id": "801195587640428208",
+  "name": "Lint",
+  "id": "1237713086316577086",
   "api": "1.0.0",
   "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
   "ui": "dist/ui.html",
   "editorType": ["figma"]
 }
